@@ -9,7 +9,7 @@ Hopefully, I'll become an Information Systems Engineer in the upcoming years...
 
 ### 🛠️ My Stack
 
-![LanguagesFrameworks](https://skillicons.dev/icons?i=java,python,javascript,html,css,typescript,nodejs,react,maven)</br>
+![LanguagesFrameworks](https://skillicons.dev/icons?i=java,spring,python,javascript,html,css,typescript,nodejs,react,maven)</br>
 ![DatabasesTools](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis,docker,linux,git,postman,idea,pycharm,vscode,cloudflare)</br>
 
 ### 📊 Some Numbers
