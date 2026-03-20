@@ -4,7 +4,7 @@
 I'm Santiago Escobares, a.k.a SantiMG, and I love building heavy-optimized scalable systems for enterprises and communities.</br>
 Hopefully, I'll become an Information Systems Engineer in the upcoming years...
 > [!NOTE]
-> Looking forward to get in contact?<br/>
+> Looking forward to getting in contact?<br/>
 > You can [email](mailto:santiagoescobares06@gmail.com) me or find my [Discord](https://discord.com) as **santi_mg**
 
 ### 🛠️ My Stack
